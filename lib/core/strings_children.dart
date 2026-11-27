@@ -1,0 +1,43 @@
+/// نصوص الأطفال
+const Map<String, Map<String, String>> childrenStrings = {
+  'ar': {
+    'myChildren': 'أطفالي',
+    'addChild': 'إضافة طفل',
+    'editChild': 'تعديل بيانات الطفل',
+    'childName': 'اسم الطفل',
+    'birthDate': 'تاريخ الميلاد',
+    'pickDate': 'اختر التاريخ',
+    'save': 'حفظ',
+    'noChildren': 'لم تضف أي طفل بعد',
+    'chooseChild': 'اختر الطفل',
+    'yearsUnit': 'سنة',
+    'catA': 'فئة A (6 إلى 9 سنوات)',
+    'catB': 'فئة B (10 إلى 13 سنة)',
+    'catC': 'فئة C (14 إلى 16 سنة)',
+    'catNone': 'خارج الفئات (6 إلى 16 سنة)',
+    'errBirth': 'اختر تاريخ الميلاد',
+    'errChildName': 'اكتب اسم الطفل',
+    'childOutOfRange':
+    'عمر الطفل خارج الفئات المعتمدة (6 إلى 16 سنة)، وسيراجع الطلب من الإدارة',
+  },
+  'en': {
+    'myChildren': 'My children',
+    'addChild': 'Add child',
+    'editChild': 'Edit child',
+    'childName': 'Child name',
+    'birthDate': 'Date of birth',
+    'pickDate': 'Pick a date',
+    'save': 'Save',
+    'noChildren': 'You have not added any child yet',
+    'chooseChild': 'Choose the child',
+    'yearsUnit': 'years',
+    'catA': 'Category A (6 to 9 years)',
+    'catB': 'Category B (10 to 13 years)',
+    'catC': 'Category C (14 to 16 years)',
+    'catNone': 'Outside categories (6 to 16)',
+    'errBirth': 'Pick the date of birth',
+    'errChildName': 'Enter the child name',
+    'childOutOfRange':
+    'Child age is outside the approved range (6 to 16). Admin will review the request',
+  },
+};

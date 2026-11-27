@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229551834293",
+    "project_id": "jsa-academy-d0116",
+    "storage_bucket": "jsa-academy-d0116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229551834293:android:541d5b37416efd5d5aeafc",
+        "android_client_info": {
+          "package_name": "com.aljafen.jsa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe53vMiN_l1A3JmI2kSYp_XhYVEbSI8ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

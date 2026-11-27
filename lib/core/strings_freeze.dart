@@ -1,0 +1,41 @@
+/// نصوص تجميد الاشتراك وتنبيهات الانتهاء
+const Map<String, Map<String, String>> freezeStrings = {
+  'ar': {
+    'fzFreeze': 'تجميد الاشتراك',
+    'fzAsk':
+    'سيتم تجميد اشتراكك لمدة أسبوع، وتمديد تاريخ الانتهاء 7 أيام. التجميد مسموح مرة واحدة فقط ولا يمكن التراجع عنه. هل تريد المتابعة؟',
+    'fzConfirm': 'تجميد',
+    'fzCancel': 'إلغاء',
+    'fzDone': 'تم تجميد الاشتراك وتمديد تاريخ الانتهاء أسبوعاً',
+    'fzError': 'تعذر التجميد، حاول مرة أخرى',
+    'fzFrozenUntil': 'مجمّد حتى',
+    'fzEnds': 'ينتهي',
+    'fzDaysLeft': 'متبقي {n} يوم',
+    'fzLastDay': 'ينتهي اليوم',
+    'fzExpiredOn': 'انتهى اشتراكك في',
+    'fzRenew': 'جدّد الآن',
+    'fzSoon': 'اشتراكك على وشك الانتهاء',
+    'fzActive': 'اشتراك فعّال',
+    'fzFrozen': 'مجمّد',
+    'fzUsedOn': 'تم استخدام التجميد بتاريخ',
+  },
+  'en': {
+    'fzFreeze': 'Freeze subscription',
+    'fzAsk':
+    'Your subscription will be frozen for one week and the end date extended by 7 days. Freezing is allowed once only and cannot be undone. Continue?',
+    'fzConfirm': 'Freeze',
+    'fzCancel': 'Cancel',
+    'fzDone': 'Subscription frozen and end date extended by a week',
+    'fzError': 'Could not freeze, please try again',
+    'fzFrozenUntil': 'Frozen until',
+    'fzEnds': 'Ends',
+    'fzDaysLeft': '{n} days left',
+    'fzLastDay': 'Ends today',
+    'fzExpiredOn': 'Your subscription expired on',
+    'fzRenew': 'Renew now',
+    'fzSoon': 'Your subscription is about to end',
+    'fzActive': 'Active subscription',
+    'fzFrozen': 'Frozen',
+    'fzUsedOn': 'Freeze used on',
+  },
+};
