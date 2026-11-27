@@ -1,0 +1,5 @@
+# مفاتيح وملفات حساسة
+*.jks
+*.keystore
+android/key.properties
+.env
